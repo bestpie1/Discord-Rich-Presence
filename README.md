@@ -7,22 +7,22 @@ Examples:
   </a>
 <br>
 
-## What is Discord RPC?
+## What is Discord RPC? 🐱‍🏍
 
 Discord RPC is a library for interfacing your game with a locally running Discord desktop client.
 
-## How does it work?
+## How does it work? ✨
 
 There is an API that communicates between your game and discord client to set a user's game activity, therefore by displaying the details of what the developers of that particular game have programmed. You need to have and run discord's local client in order for RPC's to work.
 
-## Features
+## Features 🎉
 - [x] Working Status
 - [x] Autostart
 - [x] Optional Custom Timer
 - [x] Auto Start Timer
 - [ ] Clickable buttons (Work In Progress)
 
-## Installation
+## Installation 📩
 
 To Install & Use this Discord Rich Presence
 1. Head over to the top of the website and click on Code
@@ -31,5 +31,5 @@ To Install & Use this Discord Rich Presence
 4. Edit .env with all the stuff you want to your liking
 5. Run the Start.bat File
 
-## Code Creator/Coder
+## Code Creator/Coder 🕊
 ![Discord](https://discord.c99.nl/widget/theme-3/664193794429943848.png)
