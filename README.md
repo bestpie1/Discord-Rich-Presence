@@ -25,7 +25,7 @@ There is an API that communicates between your game and discord client to set a 
 ## Installation 📩
 
 To Install & Use this Discord Rich Presence
-1. Head over to the top of the website and click on Code
+1. Head over to the top of the Github and click on Code
 2. Download the Zip
 3. Extract the Zip to your PC
 4. Edit .env with all the stuff you want to your liking
