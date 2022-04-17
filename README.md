@@ -28,8 +28,9 @@ To Install & Use this Discord Rich Presence
 1. Head over to the top of the Github and click on Code
 2. Download the Zip
 3. Extract the Zip to your PC
-4. Edit .env with all the stuff you want to your liking
+4. Edit .env using notepad with all the stuff you want to your liking
 5. Run the Start.bat File
+Note: You will need to use the [Discord Developer Portal](https://discord.com/developers/applications) to get your ClientID and create all the images
 
 ## Code Creator/Coder 🕊
 ![Discord](https://discord.c99.nl/widget/theme-3/664193794429943848.png)
