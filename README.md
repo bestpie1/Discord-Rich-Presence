@@ -31,6 +31,7 @@ To Install & Use this Discord Rich Presence
 4. Edit .env using notepad with all the stuff you want to your liking
 5. Run the Start.bat File
 Note: You will need to use the [Discord Developer Portal](https://discord.com/developers/applications) to get your ClientID and create all the images
+How to use Auto Start: Right click Start.bat File and click Pin to Start. Once you have done that then the file will start every time your pc starts. If you want to Disable this then do the same procedure like you are pining it to start.
 
 ## Code Creator/Coder 🕊
 ![Discord](https://discord.c99.nl/widget/theme-3/664193794429943848.png)
