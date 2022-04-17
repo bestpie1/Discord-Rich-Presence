@@ -2,7 +2,7 @@
 Examples:
   <br>
 <a href="#">
-    <img src="https://i.gyazo.com/832584ac78bf522f168d8cdd56f13ada.gif">
+    <img src="https://i.gyazo.com/1cb9e049a99b2e3c8077d5fd114758de.gif">
     <img src="https://i.gyazo.com/a9827b1af51b0682294fb028a044e2cb.png">
   </a>
 <br>
