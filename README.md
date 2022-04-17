@@ -29,7 +29,8 @@ To Install & Use this Discord Rich Presence
 2. Download the Zip
 3. Extract the Zip to your PC
 4. Edit .env using notepad with all the stuff you want to your liking
-5. Run the Start.bat File
+5. Install [NodeJs on your Computer](https://nodejs.org/en/) - Without this then the file won't open
+6. Run the Start.bat File
 Note: You will need to use the [Discord Developer Portal](https://discord.com/developers/applications) to get your ClientID and create all the images
 How to use Auto Start: Right click Start.bat File and click Pin to Start. Once you have done that then the file will start every time your pc starts. If you want to Disable this then do the same procedure like you are pining it to start.
 
